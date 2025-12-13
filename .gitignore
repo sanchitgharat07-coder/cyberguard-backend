@@ -1,0 +1,18 @@
+# 1. Virtual Environment (Heavy folder, never upload)
+venv/
+env/
+
+# 2. Secrets (Your API keys, never upload)
+.env
+
+# 3. Python Cache (Junk files generated automatically)
+__pycache__/
+*.pyc
+
+# 4. Datasets (Heavy & Unnecessary for running the app)
+*.csv
+test_dataset.csv
+train_dataset.csv
+
+# 5. OS Junk
+.DS_Store
