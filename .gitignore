@@ -16,3 +16,5 @@ train_dataset.csv
 
 # 5. OS Junk
 .DS_Store
+
+firebase-credentials.json
